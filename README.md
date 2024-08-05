@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&animation=blink&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github!&animation=blink&fontSize=40)
 
 
 ## 👋 Introduction
 안녕하세요! 현재 백엔드 개발자로 준비중입니다.<br>
-프론트, 백엔드, 인프라 모두 관심있는 열정 가득한 성장형 신입개발자 입니다.💞️
+프론트, 백엔드, 인프라 모두 관심있는 열정 가득한 성장형 신입개발자 입니다.💛
 
 ## 🌱 Once I've used 🌱
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
